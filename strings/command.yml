@@ -11,13 +11,13 @@
 # Commands in Every Language
 
 # Bot Commands
-PING_COMMAND : ["ping"]
-START_COMMAND : ["start"]
+PING_COMMAND : ["bping"]
+START_COMMAND : ["bstart"]
 HELP_COMMAND : ["help"]
-SETTINGS_COMMAND : ["settings", "setting"]
-RELOAD_COMMAND : ["admincache", "reload"]
+SETTINGS_COMMAND : ["bsettings", "setting"]
+RELOAD_COMMAND : ["badmincache", "reload"]
 GSTATS_COMMAND : ["gstats"]
-STATS_COMMAND : ["stats"]
+STATS_COMMAND : ["bbstats"]
 LANGUAGE_COMMAND : ["lang", "language", "langs"]
 
 # Play Commands
