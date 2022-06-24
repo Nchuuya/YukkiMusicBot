@@ -40,7 +40,7 @@ SONG_DOWNLOAD_DURATION = int(
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001584010815")
 
 # A name for your Music bot.
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "Kazu Music Bot")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "Boa")
 
 # Your User ID.
 OWNER_ID = list(
@@ -135,7 +135,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(
 
 
 # You'll need a Pyrogram String Session for these vars. Generate String from our session generator bot @YukkiStringBot
-STRING1 = getenv("STRING_SESSION", "BQCjPGUQAotmHx2U6fA4EtOIitKQnbViiCAaIzlGX_u19OQRspGKp_JBP_kSVgihPThlOlFEiKllt4azR0HHdYav7GKMNAHIxI2U4MKAJoGWzYqPoUB5Nv4QL4rw1bhcLYBCNvbFmg4FgvpFgtEei0GIa9S8T5C3HJ3AJpMNtx9TL3Sth_zdI1snwqxUt3ad_ibQLT60gwBBRhmxadz8UKu8FBUu5SIg2fcMHjtW8MBltpQlM9hvpt8IPH4xfLv8vsnm7Iuk3LvaOMN92ZZ6XEdHLmYMooiemVAbhgeSN0Wk9vpUP5ydf12QXh-KFR1aG08fAVFN1uNWYUhRwvikY1SMAAAAAHsrA8MA")
+STRING1 = getenv("STRING_SESSION", "BQBgpjYlmKMxhmV2Q4JNc3sYZHpfaLS5WCHf-CAHcNVU3zXmYWSNtdcb1m5bngGBS-oUvlpawcGpSDTTYqYZ0GycQagyoGkC4kw_aOVQk2HaZOL9rTdwjKRmWxhq5z3iRYInSr8z7uUma_ltqbv9X2LqOKt6RAcH2QqJ2vM7eNQnNTVNijF-IbrDp8ICe1dXPxhIUAAsz_dYtzOVzN66KiXzxAVnWuNekeyupCmjDh6gGRAUSeZTc7c72xjULj4nm_f-3SNCQclDrd0rKwh0Vil7-x2zFDDPXR9TELYnU5F0vuFo6714Gg3z0FKFA_ehZS-O3ZaRLqFJVSD7yAEkDfvTAAAAAHsrA8MA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
